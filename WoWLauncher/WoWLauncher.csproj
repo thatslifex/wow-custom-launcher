@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <TargetFramework>net8.0-windows10.0.26100.0</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <Title>World of Warcraft Launcher</Title>
-    <Authors>Private Server Host</Authors>
-    <Company>Private Server Company</Company>
+    <Authors>Northrend Legacy</Authors>
+    <Company>Northrend Legacy</Company>
     <PackageProjectUrl></PackageProjectUrl>
     <PackageIcon>app.png</PackageIcon>
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
@@ -18,8 +18,9 @@
     <Copyright>Games by Lance 2022</Copyright>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <Version>1.1</Version>
-    <RepositoryUrl>https://github.com/gslance/wow-custom-launcher</RepositoryUrl>
+    <RepositoryUrl>https://github.com/thatslifex/wow-custom-launcher</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
