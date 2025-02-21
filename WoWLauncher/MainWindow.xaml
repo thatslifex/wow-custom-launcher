@@ -130,7 +130,7 @@
                     <Run Text="In order to play, you must have an account on" FontSize="18"/>
                     <TextBlock>                
                         <Hyperlink NavigateUri="https://wow.unity-gaming.at" FontSize="18" ToolTip="Our Website" Foreground="Cyan" RequestNavigate="Hyperlink_RequestNavigate" >
-                           our Website!
+                           our Website
                         </Hyperlink>
                     </TextBlock>
                     <Run Text="."/>
