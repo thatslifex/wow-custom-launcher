@@ -85,7 +85,7 @@ namespace WoWLauncher.Updater
         public void RetrieveRealmIP()
         {
             // Set default and prepare folders
-            m_RealmAddress = "wow.unity-gaming.at";
+            m_RealmAddress = " 46.4.132.200";
             if (!Directory.Exists("Data/enUS"))
                 Directory.CreateDirectory("Data/enUS");
 
