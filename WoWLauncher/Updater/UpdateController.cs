@@ -20,8 +20,8 @@ namespace WoWLauncher.Updater
         private bool m_NeedsUpdate;
 
         // Textfile containing version number of latest launcher (e.g 1.2) 
-        private string m_UpdateVersionUri = "https://example.com/Patch/update.txt";
-        private string m_ServerAddressUri = "https://example.com/Patch/realm.txt";
+        private string m_UpdateVersionUri = "https://launcher.unity-gaming.at/Patch/update.txt";
+        private string m_ServerAddressUri = "https://launcher.unity-gaming.at/Patch/realm.txt";
         /*
          * HOW TO ORGANIZE YOUR PATCH SERVER
          * 
